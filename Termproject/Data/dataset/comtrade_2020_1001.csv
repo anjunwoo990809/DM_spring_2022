@@ -1,0 +1,241 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,0,,61236655,,,0
+H5,2020,2020,2020,4,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,0,,104853,,,0
+H5,2020,2020,2020,4,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1365099254,,,,1365099254,,296905179,,,0
+H5,2020,2020,2020,4,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,17845,,,,17845,,57819,,,0
+H5,2020,2020,2020,4,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,10196930532,,,,10196930532,,2029493549,,,0
+H5,2020,2020,2020,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,126810359,,,6
+H5,2020,2020,2020,4,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,10400418490,,,,10400418490,,2698497952,,,0
+H5,2020,2020,2020,4,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1151669377,,,,1151669377,,238949259,,,0
+H5,2020,2020,2020,4,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,619174813,,,,619174813,,191300019,,,0
+H5,2020,2020,2020,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,350277729,,,,350310679,,72416416,,,0
+H5,2020,2020,2020,4,0,2,Export,51,Armenia,ARM,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,64069,,,,64066,,33606,,,0
+H5,2020,2020,2020,4,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,12486244,,,,12486244,,4131900,,,0
+H5,2020,2020,2020,4,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,3684887791,,,,3684887791,,795906400,,,6
+H5,2020,2020,2020,4,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,524664835,,,,524664835,,149927888,,,0
+H5,2020,2020,2020,4,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,884,,,,884,,6958,,,0
+H5,2020,2020,2020,4,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,114296405,,,,,,25947705,,,0
+H5,2020,2020,2020,4,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,337442473,,,,337442473,,71505068,,,0
+H5,2020,2020,2020,4,0,2,Export,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,36508356,,,,36508356,,8335468,,,0
+H5,2020,2020,2020,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,131004481,,,,131004481,,51929787,,,0
+H5,2020,2020,2020,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,278102,,,,278102,,36404,,,0
+H5,2020,2020,2020,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,6159925811,,,,6159925811,,1459353630,,,0
+H5,2020,2020,2020,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,560878356,,,,560878457,,111730957,,,0
+H5,2020,2020,2020,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,27998364,,,,27998364,,4071656,,,0
+H5,2020,2020,2020,4,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,22452,,,,22452,,32133,,,0
+H5,2020,2020,2020,4,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,28663712,,,,28663712,,9410134,,,0
+H5,2020,2020,2020,4,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,3230284025,,,,3230284025,,699212292,,,0
+H5,2020,2020,2020,4,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,478645942,,,,478645942,,136479724,,,0
+H5,2020,2020,2020,4,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,0,,30,,,0
+H5,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,83639420,,,,83639420,,22849187,,,0
+H5,2020,2020,2020,4,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,17790808,,,,17790808,,4741300,,,0
+H5,2020,2020,2020,4,0,2,Export,112,Belarus,BLR,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,21683740,,,,21683740,,4173700,,,0
+H5,2020,2020,2020,4,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,14868927,,,,14868927,,3936221,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,182166044,,,,182166044,,30002800,,,6
+H5,2020,2020,2020,4,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,26121922377,,,,26121922377,,6298980220,,,6
+H5,2020,2020,2020,4,0,3,Re-Export,124,Canada,CAN,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,30141000,,,,30141000,,7214109,,,0
+H5,2020,2020,2020,4,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,21688405,,,,21688405,,5430509,,,0
+H5,2020,2020,2020,4,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1403877201,,,,1403877201,,366043419,,,0
+H5,2020,2020,2020,4,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2860330,,,,2860330,,830723,,,0
+H5,2020,2020,2020,4,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1150370826,,,,1150370826,,282529904,,,0
+H5,2020,2020,2020,4,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,14451,,,,14451,,3211,,,6
+H5,2020,2020,2020,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,8151572133,,,,8151572133,,2260233422,,,0
+H5,2020,2020,2020,4,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1934624552,,,,1934624552,,477628658,,,0
+H5,2020,2020,2020,4,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,275,,,,275,,550,,,0
+H5,2020,2020,2020,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,240,,,,240,,475,,,0
+H5,2020,2020,2020,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,0,,54643022,,,0
+H5,2020,2020,2020,4,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,50,,,,50,,855,,,0
+H5,2020,2020,2020,4,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,271941736,,,,271941736,,72223373,,,0
+H5,2020,2020,2020,4,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,4,,,,4,,1,,,0
+H5,2020,2020,2020,4,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,140244179,,,,140244179,,29255461,,,0
+H5,2020,2020,2020,4,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,562561953,,,,562561953,,113440202,,,0
+H5,2020,2020,2020,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,36835178,,,,36835178,,10816055,,,0
+H5,2020,2020,2020,4,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,51000,,,,51000,,21290,,,0
+H5,2020,2020,2020,4,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,18313071,,,6
+H5,2020,2020,2020,4,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2597859542,,,,2597859542,,522918518,,,0
+H5,2020,2020,2020,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,29000093,,,,29000093,,7635350,,,0
+H5,2020,2020,2020,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,146997593,,,,146997593,,40542879,,,0
+H5,2020,2020,2020,4,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,175258728,,,6
+H5,2020,2020,2020,4,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,500526331,,,,518926583,,133149429,,,0
+H5,2020,2020,2020,4,0,2,Export,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,331980,,,,335944,,430833,,,0
+H5,2020,2020,2020,4,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1217377430,,,,1266215970,,325229057,,,0
+H5,2020,2020,2020,4,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,269761903,,,,269761903,,71376869,,,0
+H5,2020,2020,2020,4,0,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1642240,,,,1642240,,507557,,,0
+H5,2020,2020,2020,4,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1049867046,,,,1049867046,,429901756,,,6
+H5,2020,2020,2020,4,0,2,Export,231,Ethiopia,ETH,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,300,,,,300,,893,,,0
+H5,2020,2020,2020,4,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,10049221,,,,10049221,,2316810,,,0
+H5,2020,2020,2020,4,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,709971372,,,,709971372,,154801244,,,0
+H5,2020,2020,2020,4,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,163689602,,,,163689602,,51385506,,,0
+H5,2020,2020,2020,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,1858218,,,6
+H5,2020,2020,2020,4,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,33514834,,,6
+H5,2020,2020,2020,4,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,263210949,,,,263210949,,76991951,,,6
+H5,2020,2020,2020,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,19792620593,,,,19792620593,,4543879612,,,6
+H5,2020,2020,2020,4,0,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1510444,,,,1510444,,510198,,,0
+H5,2020,2020,2020,4,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,490945003,,,,490945003,,107922232,,,0
+H5,2020,2020,2020,4,0,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,23920,,,,23920,,12720,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,4001682224,,,,4001682224,,910976897,,,6
+H5,2020,2020,2020,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,9292542942,,,,9292542942,,2118691279,,,6
+H5,2020,2020,2020,4,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,210959445,,,6
+H5,2020,2020,2020,4,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,287393250,,,,287393250,,89206106,,,6
+H5,2020,2020,2020,4,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,638707500,,,,638707500,,170154114,,,0
+H5,2020,2020,2020,4,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,390,,,,390,,858,,,0
+H5,2020,2020,2020,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,26263620,,,,26263620,,11103247,,,0
+H5,2020,2020,2020,4,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,3409284,,,,3409284,,1431508,,,0
+H5,2020,2020,2020,4,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,0,,40365567,,,0
+H5,2020,2020,2020,4,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,0,,630557304,,,0
+H5,2020,2020,2020,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,37412130,,,,37412130,,9448918,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,10299702306,,,,10299702306,,2616036587,,,6
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,21,,,,21,,11,,,0
+H5,2020,2020,2020,4,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,276170959,,,,276170959,,67266771,,,0
+H5,2020,2020,2020,4,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,29065063,,,,29065063,,7099571,,,0
+H5,2020,2020,2020,4,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1554203493,,,,1554203493,,355866000,,,6
+H5,2020,2020,2020,4,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,17985,,,,,,6000,,,6
+H5,2020,2020,2020,4,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,2043024691,,,6
+H5,2020,2020,2020,4,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,61043730,,,,61043730,,25587373,,,0
+H5,2020,2020,2020,4,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,0,,46218967,,,0
+H5,2020,2020,2020,4,0,2,Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,60750,,,,60750,,10083,,,0
+H5,2020,2020,2020,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,5373861742,,,,5373861742,,1524539411,,,6
+H5,2020,2020,2020,4,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,634153849,,,,634153849,,86937299,,,0
+H5,2020,2020,2020,4,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,5198942841,,,,5198942841,,1137139554,,,0
+H5,2020,2020,2020,4,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,764997121,,,,764997121,,215120131,,,6
+H5,2020,2020,2020,4,0,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1924246,,,,1924246,,418840,,,6
+H5,2020,2020,2020,4,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,458150824,,,6
+H5,2020,2020,2020,4,0,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1039270,,,,1039270,,482012,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,3709068318,,,,3709068318,,970453544,,,6
+H5,2020,2020,2020,4,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,11001,,,,11001,,4203,,,0
+H5,2020,2020,2020,4,0,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,507895658,,,,507895658,,145353064,,,0
+H5,2020,2020,2020,4,0,2,Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,97545,,,,97545,,320569,,,0
+H5,2020,2020,2020,4,0,3,Re-Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,96466,,,,96466,,314362,,,0
+H5,2020,2020,2020,4,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,135044615,,,,135044615,,29241683,,,6
+H5,2020,2020,2020,4,0,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,88000,,,,88000,,10066,,,0
+H5,2020,2020,2020,4,0,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,10000,,,,10000,,1656,,,0
+H5,2020,2020,2020,4,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,630548500,,,,630548500,,148487768,,,0
+H5,2020,2020,2020,4,0,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,203001,,,6
+H5,2020,2020,2020,4,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,763299515,,,,763299515,,162116493,,,0
+H5,2020,2020,2020,4,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2990623335,,,,2990623335,,649230635,,,0
+H5,2020,2020,2020,4,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,113444943,,,,113444943,,24218423,,,0
+H5,2020,2020,2020,4,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,3979200121,,,,3979200121,,910696676,,,0
+H5,2020,2020,2020,4,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,137740257,,,,137740257,,38665415,,,6
+H5,2020,2020,2020,4,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,30350784,,,,30350784,,8111226,,,0
+H5,2020,2020,2020,4,0,3,Re-Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,31840,,,,31840,,6819,,,0
+H5,2020,2020,2020,4,0,4,Re-Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,98465,,,6
+H5,2020,2020,2020,4,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,84,,,,84,,358,,,0
+H5,2020,2020,2020,4,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,76013180,,,,76013180,,20027587,,,0
+H5,2020,2020,2020,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,0,,45311795,,,0
+H5,2020,2020,2020,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1390592173,,,,1390592173,,377444857,,,0
+H5,2020,2020,2020,4,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,356472,,,,356472,,142720,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,21418453,,,,21418453,,5561112,,,0
+H5,2020,2020,2020,4,0,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,685553160,,,,685553160,,175578612,,,0
+H5,2020,2020,2020,4,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,124970661,,,,85303276,,32424958,,,0
+H5,2020,2020,2020,4,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1414930000,,,,1414930000,,403097932,,,0
+H5,2020,2020,2020,4,0,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,33312,,,,33312,,14056,,,6
+H5,2020,2020,2020,4,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,129820650,,,,129820650,,27840695,,,0
+H5,2020,2020,2020,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,3999256,,,,3999256,,1040796,,,0
+H5,2020,2020,2020,4,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,135869671,,,,135869671,,27494411,,,0
+H5,2020,2020,2020,4,0,4,Re-Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,154070,,,,154070,,26724,,,0
+H5,2020,2020,2020,4,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,11612073,,,,11612073,,2586300,,,0
+H5,2020,2020,2020,4,0,2,Export,499,Montenegro,MNE,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,455,,,,455,,668,,,0
+H5,2020,2020,2020,4,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,5521530237,,,,5521530237,,1422023241,,,0
+H5,2020,2020,2020,4,0,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,10036,,,,10036,,11509,,,0
+H5,2020,2020,2020,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,213552440,,,6
+H5,2020,2020,2020,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,10019915,,,,10019915,,3056465,,,0
+H5,2020,2020,2020,4,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,124526457,,,,124526457,,33757713,,,6
+H5,2020,2020,2020,4,0,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,95716,,,,95716,,10213,,,6
+H5,2020,2020,2020,4,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,4307158258,,,,4307158258,,955074191,,,0
+H5,2020,2020,2020,4,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,248978469,,,,248978469,,66519757,,,0
+H5,2020,2020,2020,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,412117047,,,,412117047,,123199264,,,0
+H5,2020,2020,2020,4,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,75921,,,,75921,,60348,,,6
+H5,2020,2020,2020,4,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,126821105,,,,126821105,,34207742,,,0
+H5,2020,2020,2020,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,21800,,,,21800,,16800,,,0
+H5,2020,2020,2020,4,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,278961416,,,,278961416,,71374313,,,0
+H5,2020,2020,2020,4,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,49581,,,,49581,,16733,,,0
+H5,2020,2020,2020,4,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2490628000,,,,2490628000,,660077682,,,0
+H5,2020,2020,2020,4,0,4,Re-Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2921000,,,,2921000,,845677,,,0
+H5,2020,2020,2020,4,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,64413,,,,64413,,31169,,,0
+H5,2020,2020,2020,4,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,282901000,,,,282901000,,60941348,,,0
+H5,2020,2020,2020,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2271156603,,,,2271156603,,564049589,,,0
+H5,2020,2020,2020,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,474118,,,,474118,,393716,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,6745006054,,,,6745006054,,1628023505,,,6
+H5,2020,2020,2020,4,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,6874,,,,6874,,1512,,,6
+H5,2020,2020,2020,4,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,869332280,,,,869332280,,173411671,,,6
+H5,2020,2020,2020,4,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,4689130770,,,,4689130770,,1045944467,,,6
+H5,2020,2020,2020,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1201723679,,,,1201723679,,291637345,,,6
+H5,2020,2020,2020,4,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,11071056,,,,11071056,,3057908,,,0
+H5,2020,2020,2020,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,58694868,,,,58694868,,17180614,,,0
+H5,2020,2020,2020,4,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,254430409,,,6
+H5,2020,2020,2020,4,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,4343629111,,,,4343629111,,948815457,,,6
+H5,2020,2020,2020,4,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,190041807,,,,190041807,,64838755,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,37267013728,,,,37267013728,,7918294256,,,0
+H5,2020,2020,2020,4,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,693995890,,,,693995890,,191875619,,,0
+H5,2020,2020,2020,4,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,5584935,,,,5584935,,1633531,,,6
+H5,2020,2020,2020,4,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2927289,,,,2927289,,1430255,,,6
+H5,2020,2020,2020,4,0,2,Export,688,Serbia,SRB,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,107463020,,,6
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,642178,,,,642178,,198834,,,0
+H5,2020,2020,2020,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,257290,,,,257290,,66637,,,6
+H5,2020,2020,2020,4,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,928683785,,,,928683785,,243066607,,,6
+H5,2020,2020,2020,4,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,244410775,,,,244410775,,69628094,,,6
+H5,2020,2020,2020,4,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,10172,,,,10172,,7441,,,6
+H5,2020,2020,2020,4,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,15799420,,,,15799420,,5138284,,,6
+H5,2020,2020,2020,4,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1271044283,,,,1271044283,,281852179,,,0
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,3147628999,,,,3147628999,,809251713,,,0
+H5,2020,2020,2020,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,54212980,,,,54212980,,11858413,,,6
+H5,2020,2020,2020,4,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,123541519,,,,123541519,,25570852,,,0
+H5,2020,2020,2020,4,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,85364064,,,,85364064,,18857583,,,0
+H5,2020,2020,2020,4,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2214587294,,,,2214587294,,494327534,,,0
+H5,2020,2020,2020,4,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,182634182,,,,182634182,,53435136,,,0
+H5,2020,2020,2020,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,102718501,,,6
+H5,2020,2020,2020,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2083000,,,,2083000,,2466062,,,0
+H5,2020,2020,2020,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,4159807157,,,,4159807157,,950733674,,,6
+H5,2020,2020,2020,4,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,177528696,,,6
+H5,2020,2020,2020,4,0,4,Re-Import,724,Spain,ESP,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,93898400,,,,93898400,,22819036,,,0
+H5,2020,2020,2020,4,0,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,52557568,,,,52557568,,15413627,,,0
+H5,2020,2020,2020,4,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,40938224,,,,40938224,,10946973,,,6
+H5,2020,2020,2020,4,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1057924708,,,,1057924708,,238720242,,,6
+H5,2020,2020,2020,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,110670083,,,6
+H5,2020,2020,2020,4,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,362176,,,6
+H5,2020,2020,2020,4,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,3096832400,,,,3096832400,,778635655,,,6
+H5,2020,2020,2020,4,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,9507,,,,9507,,19601,,,6
+H5,2020,2020,2020,4,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,112975800,,19733168,,,0
+H5,2020,2020,2020,4,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,378461876,,,6
+H5,2020,2020,2020,4,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,21174434,,,6
+H5,2020,2020,2020,4,0,3,Re-Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,16284853,,,6
+H5,2020,2020,2020,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,2334509507,,,6
+H5,2020,2020,2020,4,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,124643279,,,,124643279,,39491963,,,0
+H5,2020,2020,2020,4,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,0,,151706004,,,0
+H5,2020,2020,2020,4,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,0,,21131,,,0
+H5,2020,2020,2020,4,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,10939580,,,,10939580,,3645066,,,0
+H5,2020,2020,2020,4,0,2,Export,804,Ukraine,UKR,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,18055672701,,,,18055672701,,3594216549,,,0
+H5,2020,2020,2020,4,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,96767722,,,,96767722,,22220130,,,0
+H5,2020,2020,2020,4,0,2,Export,807,North Macedonia,MKD,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,5171924,,,,5171924,,1085255,,,0
+H5,2020,2020,2020,4,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,533541320,,,6
+H5,2020,2020,2020,4,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,118926026,,,6
+H5,2020,2020,2020,4,0,3,Re-Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,47849,,,0
+H5,2020,2020,2020,4,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,677163705,,,,677163705,,172192155,,,0
+H5,2020,2020,2020,4,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,923760,,,,923760,,300445,,,0
+H5,2020,2020,2020,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1909894953,,,,1909894953,,467783878,,,0
+H5,2020,2020,2020,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,26131625598,,,,26131625598,,6318111098,,,0
+H5,2020,2020,2020,4,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,59357089,,,,59357089,,14827965,,,0
+H5,2020,2020,2020,4,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,149874110,,,,149874110,,42124825,,,0
+H5,2020,2020,2020,4,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,410469,,,,410469,,253099,,,0
+H5,2020,2020,2020,4,0,2,Export,858,Uruguay,URY,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,381626205,,,,381626205,,83310512,,,0
+H5,2020,2020,2020,4,0,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2799620760,,,,2799620760,,556494341,,,0
+H5,2020,2020,2020,4,0,2,Export,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,48211700,,,,48211700,,10059143,,,0
+H5,2020,2020,2020,4,0,3,Re-Export,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2771000,,,,2771000,,780544,,,0
+H5,2020,2020,2020,4,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,51684460,,,,51684460,,15599795,,,0
+H5,2020,2020,2020,4,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,242525,,,,242525,,17383,,,0
+H4,2020,2020,2020,4,0,1,Import,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,358569826,,,,358569826,,96639986,,,0
+H4,2020,2020,2020,4,0,2,Export,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1750,,,,1750,,903,,,0
+H4,2020,2020,2020,4,0,1,Import,275,State of Palestine,PSE,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,43971122,,,,43971122,,10985116,,,6
+H4,2020,2020,2020,4,0,2,Export,275,State of Palestine,PSE,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,14900,,,,14900,,3277,,,6
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,14290487,,,,14290487,,3270108,,,6
+H4,2020,2020,2020,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,71046303,,,,71046303,,20682800,,,0
+H4,2020,2020,2020,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,262,,,,262,,117,,,0
+H4,2020,2020,2020,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,1085340738,,,0
+H4,2020,2020,2020,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,0,,82113809,,,6
+H4,2020,2020,2020,4,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,193941,,,,193941,,121793,,,0
+H4,2020,2020,2020,4,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,2151375969,,,6
+H4,2020,2020,2020,4,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,773404502,,,,773404502,,194067179,,,0
+H4,2020,2020,2020,4,0,1,Import,762,Tajikistan,TJK,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,999167050,,,,999167050,,243236866,,,0
+H4,2020,2020,2020,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,9579700635,,,,9579700635,,2693850569,,,6
+H4,2020,2020,2020,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,1001,Wheat and meslin,1,No Quantity,0,,,,,,12863,,,6
+H3,2020,2020,2020,4,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,15367480,,,,15367480,,5355811,,,0

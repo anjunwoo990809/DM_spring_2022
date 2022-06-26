@@ -1,0 +1,286 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,305943857,,,,305943857,,107016223,,,0
+H3,2011,2011,2011,4,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,87360,,,,87360,,35992,,,0
+H3,2011,2011,2011,4,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,7454602279,,,,7454602279,,2846944484,,,0
+H3,2011,2011,2011,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,36600,,,,36600,,13945,,,0
+H3,2011,2011,2011,4,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,98075,,,,98075,,77494,,,0
+H3,2011,2011,2011,4,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1166572262,,,,1166572262,,282015011,,,0
+H3,2011,2011,2011,4,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,9408,,,,9408,,37053,,,0
+H3,2011,2011,2011,4,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,8190022831,,,,8190022831,,2444755067,,,0
+H3,2011,2011,2011,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1235208,,,,1235208,,844293,,,0
+H3,2011,2011,2011,4,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,19743799831,,,,19743799831,,6276986370,,,0
+H3,2011,2011,2011,4,0,4,Re-Import,36,Australia,AUS,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,24320,,,,24320,,7216,,,0
+H3,2011,2011,2011,4,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,565922268,,,,565922268,,171488467,,,6
+H3,2011,2011,2011,4,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,619752919,,,,619752919,,248882909,,,6
+H3,2011,2011,2011,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,664,,,,664,,3565,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,13214910,,,,13214910,,37692747,,,0
+H3,2011,2011,2011,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,2215200,,,,2215200,,403084,,,0
+H3,2011,2011,2011,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,2824382807,,,,2824382807,,1004783960,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,356548127,,,,356548127,,90576622,,,0
+H3,2011,2011,2011,4,0,2,Export,51,Armenia,ARM,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,22000,,,,22000,,4400,,,0
+H3,2011,2011,2011,4,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,3226102643,,,,3226102643,,990282550,,,0
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,412452833,,,,412452833,,157971720,,,0
+H3,2011,2011,2011,4,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,12696,,,,12696,,3334,,,6
+H3,2011,2011,2011,4,0,1,Import,64,Bhutan,BTN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,16073663,,,,16073663,,4087342,,,0
+H3,2011,2011,2011,4,0,2,Export,64,Bhutan,BTN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,19970,,,,19970,,1982,,,0
+H3,2011,2011,2011,4,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,80318643,,,,80316935,,24518250,,,0
+H3,2011,2011,2011,4,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,344172013,,,,344172013,,113650851,,,0
+H3,2011,2011,2011,4,0,2,Export,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1814240,,,,1814240,,704692,,,0
+H3,2011,2011,2011,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,5740451268,,,,5740451268,,1987048274,,,0
+H3,2011,2011,2011,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,1,No Quantity,0,,,,2348972791,,698395311,,,0
+H3,2011,2011,2011,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,30750458,,,,30750458,,6898905,,,0
+H3,2011,2011,2011,4,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,219269,,,,219269,,77000,,,6
+H3,2011,2011,2011,4,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,27179497,,,,27179497,,9799374,,,0
+H3,2011,2011,2011,4,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,2137201866,,,,2137201866,,577504456,,,0
+H3,2011,2011,2011,4,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,113846,,,,113846,,29425,,,6
+H3,2011,2011,2011,4,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,17941800,,,,17941800,,4747600,,,0
+H3,2011,2011,2011,4,0,2,Export,112,Belarus,BLR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,376732,,,,376732,,210800,,,0
+H3,2011,2011,2011,4,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,15743700,,,,15743700,,3942796,,,0
+H3,2011,2011,2011,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,64361507,,,,64361507,,21990637,,,6
+H3,2011,2011,2011,4,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,16335086197,,,,16335086197,,5734971568,,,6
+H3,2011,2011,2011,4,0,3,Re-Export,124,Canada,CAN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,43165000,,,,43165000,,15360073,,,0
+H3,2011,2011,2011,4,0,4,Re-Import,124,Canada,CAN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,70,,,,70,,18,,,6
+H3,2011,2011,2011,4,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,22169986,,,,22169986,,8498279,,,0
+H3,2011,2011,2011,4,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1325776169,,,,1325776169,,448924201,,,0
+H3,2011,2011,2011,4,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,22455945,,,,22455945,,9341638,,,0
+H3,2011,2011,2011,4,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,867960797,,,,867960797,,225996513,,,6
+H3,2011,2011,2011,4,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,110750,,,,110750,,59164,,,0
+H3,2011,2011,2011,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1248822125,,,,1248822125,,417965164,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,39794250,,,,39794250,,17396400,,,0
+H3,2011,2011,2011,4,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1535087953,,,,1535087953,,539771998,,,0
+H3,2011,2011,2011,4,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,9,,,,9,,18,,,0
+H3,2011,2011,2011,4,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,224876696,,,,224876696,,89661765,,,0
+H3,2011,2011,2011,4,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,790848,,,,790848,,419342,,,0
+H3,2011,2011,2011,4,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,108720355,,,,108720355,,35376358,,,0
+H3,2011,2011,2011,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,103777429,,,,103777429,,35827002,,,0
+H3,2011,2011,2011,4,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,35918,,,,35918,,21442,,,0
+H3,2011,2011,2011,4,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,32151335,,,,32151335,,9719543,,,0
+H3,2011,2011,2011,4,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1583309646,,,,1583309646,,453323244,,,0
+H3,2011,2011,2011,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,326154123,,,,326154123,,111385333,,,0
+H3,2011,2011,2011,4,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,885833865,,,,885833865,,261414487,,,0
+H3,2011,2011,2011,4,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,805507345,,,,805507345,,217271881,,,6
+H3,2011,2011,2011,4,0,2,Export,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,34525,,,,34525,,27998,,,0
+H3,2011,2011,2011,4,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,565523139,,,,565523139,,220798064,,,0
+H3,2011,2011,2011,4,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,1001,Wheat and meslin.,1,No Quantity,0,,,,0,,89348332,,,0
+H3,2011,2011,2011,4,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1078302281,,,,1078302281,,402175617,,,0
+H3,2011,2011,2011,4,0,2,Export,231,Ethiopia,ETH,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1760000,,,,1760000,,513228,,,0
+H3,2011,2011,2011,4,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,9387053,,,,9387053,,3709606,,,0
+H3,2011,2011,2011,4,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,70213581,,,,70213581,,21915794,,,0
+H3,2011,2011,2011,4,0,4,Re-Import,233,Estonia,EST,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,27800,,,,27800,,7176,,,0
+H3,2011,2011,2011,4,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,102898506,,,,102898506,,61408668,,,0
+H3,2011,2011,2011,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,7440471,,,,7440471,,4336857,,,0
+H3,2011,2011,2011,4,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,194365446,,,,194365446,,62114813,,,0
+H3,2011,2011,2011,4,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,515990565,,,,515990565,,182912735,,,6
+H3,2011,2011,2011,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,20364732413,,,,20364732413,,6757156161,,,0
+H3,2011,2011,2011,4,0,4,Re-Import,251,France,FRA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,7757213,,,,7757213,,2250446,,,0
+H3,2011,2011,2011,4,0,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,959283,,,,959283,,371415,,,0
+H3,2011,2011,2011,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,3158,,,,3158,,787,,,0
+H3,2011,2011,2011,4,0,1,Import,275,State of Palestine,PSE,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,93170075,,,,93170075,,25173087,,,6
+H3,2011,2011,2011,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,4468714186,,,,4468714186,,1413994806,,,6
+H3,2011,2011,2011,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,6426632958,,,,6426632958,,2058720129,,,0
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,325029517,,,,325029517,,150212035,,,0
+H3,2011,2011,2011,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,70,,,,70,,71,,,0
+H3,2011,2011,2011,4,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,962089805,,,,962089805,,330704854,,,0
+H3,2011,2011,2011,4,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,366255521,,,,366255521,,136064341,,,0
+H3,2011,2011,2011,4,0,1,Import,304,Greenland,GRL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1705,,,,1705,,5166,,,0
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,24917797,,,,24917797,,8099077,,,0
+H3,2011,2011,2011,4,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,489317866,,,,489317866,,177152793,,,0
+H3,2011,2011,2011,4,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,201408,,,,201408,,97248,,,0
+H3,2011,2011,2011,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,29122597,,,,29122597,,23999081,,,0
+H3,2011,2011,2011,4,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,198192134,,,,198192134,,76703118,,,0
+H3,2011,2011,2011,4,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,2778172,,,,2778172,,1349760,,,0
+H3,2011,2011,2011,4,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,66887700,,,,66887700,,23146000,,,0
+H3,2011,2011,2011,4,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1246454700,,,,1246454700,,368793000,,,0
+H3,2011,2011,2011,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,36139361,,,,36139361,,13123758,,,0
+H3,2011,2011,2011,4,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,5780,,,,5780,,4162,,,0
+H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,5604860389,,,,5604860389,,2193986487,,,0
+H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,465,,,,465,,325,,,0
+H3,2011,2011,2011,4,0,1,Import,364,Iran,IRN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,71004532,,,,71004532,,20384754,,,0
+H3,2011,2011,2011,4,0,2,Export,364,Iran,IRN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,45873240,,,,45873240,,12386217,,,0
+H3,2011,2011,2011,4,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,227171047,,,,227171047,,73804488,,,0
+H3,2011,2011,2011,4,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,121099000,,,,121099000,,35009022,,,0
+H3,2011,2011,2011,4,0,4,Re-Import,372,Ireland,IRL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,71781,,,,71781,,837482,,,0
+H3,2011,2011,2011,4,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1550259849,,,,1550259849,,497701000,,,0
+H3,2011,2011,2011,4,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,810560,,,,810560,,187000,,,6
+H3,2011,2011,2011,4,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,7376873626,,,,7376873626,,2635395060,,,0
+H3,2011,2011,2011,4,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,578200165,,,,578200165,,272834713,,,0
+H3,2011,2011,2011,4,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,453980134,,,,453980134,,185047678,,,0
+H3,2011,2011,2011,4,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,146154403,,,,146154403,,63914101,,,0
+H3,2011,2011,2011,4,0,2,Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,27955,,,,27955,,12791,,,0
+H3,2011,2011,2011,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,6214246108,,,,6214246108,,2709631055,,,6
+H3,2011,2011,2011,4,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,15399690,,,,15399690,,3880617,,,0
+H3,2011,2011,2011,4,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,2891482269,,,,2891482269,,609419254,,,0
+H3,2011,2011,2011,4,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,437424522,,,,437424522,,150025286,,,0
+H3,2011,2011,2011,4,0,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,510060,,,,510060,,158259,,,0
+H3,2011,2011,2011,4,0,3,Re-Export,400,Jordan,JOR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,508060,,,,508060,,154851,,,0
+H3,2011,2011,2011,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,4671336278,,,,4671336278,,1647062131,,,6
+H3,2011,2011,2011,4,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1615,,,,1615,,4493,,,0
+H3,2011,2011,2011,4,0,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,401778267,,,,401778267,,163095258,,,0
+H3,2011,2011,2011,4,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,289895277,,,,289895277,,66954727,,,0
+H3,2011,2011,2011,4,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,446120314,,,,446120314,,143919726,,,0
+H3,2011,2011,2011,4,0,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,7245101,,,,7245101,,2653528,,,0
+H3,2011,2011,2011,4,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,112550944,,,,112550944,,35543220,,,0
+H3,2011,2011,2011,4,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,461644024,,,,461644024,,143621031,,,0
+H3,2011,2011,2011,4,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,64286545,,,,64286545,,19165089,,,0
+H3,2011,2011,2011,4,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,808962530,,,,808962530,,256881930,,,0
+H3,2011,2011,2011,4,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,78225183,,,,78225183,,29445810,,,0
+H3,2011,2011,2011,4,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,16567152,,,,16567152,,5368171,,,0
+H3,2011,2011,2011,4,0,3,Re-Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,58120,,,,58120,,14111,,,0
+H3,2011,2011,2011,4,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,3550,,,,3550,,3143,,,0
+H3,2011,2011,2011,4,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,16310502,,,,16310502,,7461848,,,0
+H3,2011,2011,2011,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,134984581,,,,134984581,,82112232,,,0
+H3,2011,2011,2011,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,11213000,,,,11213000,,737228,,,0
+H3,2011,2011,2011,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1142453809,,,,1142453809,,437579584,,,0
+H3,2011,2011,2011,4,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,7702514,,,,7702514,,3418542,,,0
+H3,2011,2011,2011,4,0,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,2497,,,,2497,,6665,,,0
+H3,2011,2011,2011,4,0,1,Import,466,Mali,MLI,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,130037078,,,,130037078,,60519432,,,0
+H3,2011,2011,2011,4,0,2,Export,466,Mali,MLI,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,108000,,,,108000,,14433,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,33189282,,,,33189282,,12166650,,,0
+H3,2011,2011,2011,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,8008000,,,,8008000,,2326751,,,0
+H3,2011,2011,2011,4,0,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,285993436,,,,285993436,,98455432,,,0
+H3,2011,2011,2011,4,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,107262504,,,,107262504,,40813199,,,0
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,4047832288,,,,4047832288,,1321834567,,,6
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,835908339,,,,835908339,,298502299,,,0
+H3,2011,2011,2011,4,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1360685465,,,,1360685465,,584682165,,,6
+H3,2011,2011,2011,4,0,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,8839,,,,8839,,16873,,,6
+H3,2011,2011,2011,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,334550,,,,334550,,146463,,,0
+H3,2011,2011,2011,4,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,70234426,,,,70234426,,17362165,,,0
+H3,2011,2011,2011,4,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,27705837,,,,27705837,,9289916,,,0
+H3,2011,2011,2011,4,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,236,,,,236,,411,,,0
+H3,2011,2011,2011,4,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,76601237,,,,76601237,,34713152,,,0
+H3,2011,2011,2011,4,0,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,978981,,,,978981,,199044,,,0
+H3,2011,2011,2011,4,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,824378,,,,824378,,141841,,,0
+H3,2011,2011,2011,4,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,1001,Wheat and meslin.,1,No Quantity,0,,,,,,1298236311,,,6
+H3,2011,2011,2011,4,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,644799244,,,,644799244,,215065103,,,6
+H3,2011,2011,2011,4,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,299935,,,,299935,,193344,,,0
+H3,2011,2011,2011,4,0,1,Import,540,New Caledonia,NCL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,32198284,,,,32198284,,12062952,,,0
+H3,2011,2011,2011,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,458580809,,,,458580809,,210794956,,,0
+H3,2011,2011,2011,4,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,292346,,,,292346,,211727,,,0
+H3,2011,2011,2011,4,0,3,Re-Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,24320,,,,24320,,9071,,,0
+H3,2011,2011,2011,4,0,4,Re-Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1514940,,,,1514940,,553121,,,0
+H3,2011,2011,2011,4,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,127027583,,,,127027583,,56158201,,,0
+H3,2011,2011,2011,4,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,89409,,,,89409,,23425,,,0
+H3,2011,2011,2011,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,7666588,,,,7666588,,4096154,,,0
+H3,2011,2011,2011,4,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1777935092,,,,1777935092,,3476041958,,,0
+H3,2011,2011,2011,4,0,2,Export,566,Nigeria,NGA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,274588,,,,274588,,578782,,,0
+H3,2011,2011,2011,4,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,409499760,,,,409499760,,154506008,,,0
+H3,2011,2011,2011,4,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,904500,,,,904500,,335728,,,0
+H3,2011,2011,2011,4,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,21841004,,,,21841004,,10096881,,,6
+H3,2011,2011,2011,4,0,2,Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,2087422016,,,,2087422016,,674439018,,,0
+H3,2011,2011,2011,4,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,136684425,,,,136684425,,51736399,,,0
+H3,2011,2011,2011,4,0,1,Import,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,59217868,,,,59217868,,57134951,,,0
+H3,2011,2011,2011,4,0,2,Export,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,13210,,,,13210,,53442,,,0
+H3,2011,2011,2011,4,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,94685,,,,94685,,116524,,,0
+H3,2011,2011,2011,4,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,1001,Wheat and meslin.,1,No Quantity,0,,,,0,,169264433,,,0
+H3,2011,2011,2011,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1686346233,,,,1686346233,,592945939,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,1001,Wheat and meslin.,1,No Quantity,0,,,,0,,175109,,,0
+H3,2011,2011,2011,4,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,803343221,,,,803343221,,246101390,,,0
+H3,2011,2011,2011,4,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,758148236,,,,758148236,,223730762,,,0
+H3,2011,2011,2011,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1284567368,,,,1284567368,,425572337,,,0
+H3,2011,2011,2011,4,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,37497399,,,,37497399,,11562411,,,0
+H3,2011,2011,2011,4,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,559138513,,,,559138513,,172849049,,,0
+H3,2011,2011,2011,4,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1568734016,,,,1568734016,,430491832,,,0
+H3,2011,2011,2011,4,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1429133,,,,1429133,,1304019,,,0
+H3,2011,2011,2011,4,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,15185952290,,,,15185952290,,3671175390,,,0
+H3,2011,2011,2011,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,82744541,,,,82744541,,33005065,,,0
+H3,2011,2011,2011,4,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,186190,,,,186190,,12705,,,0
+H3,2011,2011,2011,4,0,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,22732138,,,,22732138,,10326037,,,0
+H3,2011,2011,2011,4,0,2,Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,136,,,,136,,106,,,0
+H3,2011,2011,2011,4,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,136,,,,136,,106,,,0
+H3,2011,2011,2011,4,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1998823000,,,,1998823000,,640631201,,,0
+H3,2011,2011,2011,4,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,2613000,,,,2613000,,1068801,,,0
+H3,2011,2011,2011,4,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,429542177,,,,429542177,,170603486,,,0
+H3,2011,2011,2011,4,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,500000,,,,500000,,228116,,,0
+H3,2011,2011,2011,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,24980,,,,24980,,7331,,,0
+H3,2011,2011,2011,4,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,499900823,,,,499900823,,145159413,,,0
+H3,2011,2011,2011,4,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,1001,Wheat and meslin.,1,No Quantity,0,,,,0,,65715955,,,0
+H3,2011,2011,2011,4,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,1001,Wheat and meslin.,1,No Quantity,0,,,,0,,232008,,,0
+H3,2011,2011,2011,4,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,123388095,,,,123388095,,47726470,,,0
+H3,2011,2011,2011,4,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,281396914,,,,281396914,,117719674,,,6
+H3,2011,2011,2011,4,0,4,Re-Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1598850,,,,1598850,,527992,,,0
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,2431430178,,,,2431430178,,814222305,,,0
+H3,2011,2011,2011,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1897350,,,,1897350,,415757,,,6
+H3,2011,2011,2011,4,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,157977132,,,,157977132,,51408526,,,0
+H3,2011,2011,2011,4,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,12383012,,,,12383012,,4022088,,,0
+H3,2011,2011,2011,4,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1824300597,,,,1824300597,,588753723,,,0
+H3,2011,2011,2011,4,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,241450646,,,,241450646,,92929961,,,6
+H3,2011,2011,2011,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,196437308,,,,196437308,,135600154,,,6
+H3,2011,2011,2011,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,61000,,,,61000,,16650,,,0
+H3,2011,2011,2011,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,1001,Wheat and meslin.,1,No Quantity,0,,,,,,1338958547,,,6
+H3,2011,2011,2011,4,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,1001,Wheat and meslin.,1,No Quantity,0,,,,,,248420261,,,6
+H3,2011,2011,2011,4,0,1,Import,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1409250022,,,,1409250022,,580104958,,,0
+H3,2011,2011,2011,4,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,85068495,,,,85068495,,6999215,,,0
+H3,2011,2011,2011,4,0,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,1001,Wheat and meslin.,1,No Quantity,0,,,,0,,16317357,,,0
+H3,2011,2011,2011,4,0,2,Export,748,Eswatini,SWZ,0,World,WLD,,,,,,,,1001,Wheat and meslin.,1,No Quantity,0,,,,0,,15355,,,0
+H3,2011,2011,2011,4,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,258806906,,,,258806906,,79658182,,,6
+H3,2011,2011,2011,4,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,406779165,,,,406779165,,132840057,,,6
+H3,2011,2011,2011,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,462047064,,,,462047064,,190794117,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,709409,,,,709409,,551961,,,6
+H3,2011,2011,2011,4,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1426210310,,,,1426210310,,503702004,,,0
+H3,2011,2011,2011,4,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,11216,,,,11216,,22338,,,6
+H3,2011,2011,2011,4,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,69689569,,,,69689569,,29569290,,,0
+H3,2011,2011,2011,4,0,1,Import,776,Tonga,TON,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,492,,,,492,,6316,,,0
+H3,2011,2011,2011,4,0,1,Import,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,56173766,,,,56173766,,27265696,,,0
+H3,2011,2011,2011,4,0,2,Export,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,342840,,,,342840,,76775,,,0
+H3,2011,2011,2011,4,0,3,Re-Export,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,342000,,,,342000,,76192,,,0
+H3,2011,2011,2011,4,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,1001,Wheat and meslin.,1,No Quantity,,,,,989648527,,341677350,,,0
+H3,2011,2011,2011,4,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,1001,Wheat and meslin.,1,No Quantity,,,,,112430551,,47318955,,,0
+H3,2011,2011,2011,4,0,3,Re-Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,1001,Wheat and meslin.,1,No Quantity,,,,,112332151,,47242536,,,0
+H3,2011,2011,2011,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1577962499,,,,1577962499,,552959244,,,0
+H3,2011,2011,2011,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,60092800,,,,60092800,,25324110,,,0
+H3,2011,2011,2011,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,4754681741,,,,4754681741,,1623088805,,,0
+H3,2011,2011,2011,4,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,5232567,,,,5232567,,2579528,,,0
+H3,2011,2011,2011,4,0,1,Import,796,Turks and Caicos Isds,TCA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,39223,,,,39223,,10352,,,6
+H3,2011,2011,2011,4,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,388068853,,,,388068853,,158999453,,,0
+H3,2011,2011,2011,4,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,5542259,,,,5542259,,2471942,,,0
+H3,2011,2011,2011,4,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,2118158,,,,2118158,,1960544,,,0
+H3,2011,2011,2011,4,0,2,Export,804,Ukraine,UKR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,4097308751,,,,4097308751,,1070292308,,,0
+H3,2011,2011,2011,4,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,78501752,,,,78501752,,25413841,,,0
+H3,2011,2011,2011,4,0,2,Export,807,North Macedonia,MKD,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,92846,,,,92846,,37146,,,0
+H3,2011,2011,2011,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,9800060214,,,,9800060214,,3199206356,,,0
+H3,2011,2011,2011,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,2664786,,,,2664786,,1218796,,,0
+H3,2011,2011,2011,4,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,901846345,,,,901846345,,363161347,,,6
+H3,2011,2011,2011,4,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,2357996314,,,,2357996314,,679225429,,,6
+H3,2011,2011,2011,4,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1057812818,,,,1057812818,,404380600,,,0
+H3,2011,2011,2011,4,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,14998000,,,,14998000,,5918439,,,0
+H3,2011,2011,2011,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1999075320,,,,1999075320,,661563620,,,0
+H3,2011,2011,2011,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,32820699111,,,,32820699111,,11148795233,,,0
+H3,2011,2011,2011,4,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,11004698,,,,11004698,,4158664,,,0
+H3,2011,2011,2011,4,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,58372646,,,,58372646,,28604440,,,0
+H3,2011,2011,2011,4,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,13529725,,,,13529725,,5916638,,,0
+H3,2011,2011,2011,4,0,2,Export,858,Uruguay,URY,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1066321257,,,,1066321257,,309357141,,,0
+H3,2011,2011,2011,4,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,421,,,,421,,47,,,0
+H3,2011,2011,2011,4,0,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,2686107351,,,,2686107351,,961920966,,,0
+H3,2011,2011,2011,4,0,2,Export,887,Yemen,YEM,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,512605,,,,512605,,798084,,,0
+H3,2011,2011,2011,4,0,3,Re-Export,887,Yemen,YEM,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,196000,,,,196000,,83910,,,0
+H3,2011,2011,2011,4,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,16514927,,,,16514927,,9693651,,,0
+H3,2011,2011,2011,4,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,17,,,,17,,62,,,0
+H2,2011,2011,2011,4,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,21479999,,,,21479999,,8510048,,,0
+H2,2011,2011,2011,4,0,2,Export,52,Barbados,BRB,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,2100,,,,2100,,18405,,,0
+H2,2011,2011,2011,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,1,No Quantity,0,,,,,,21466320,,,6
+H2,2011,2011,2011,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,175796,,,,175796,,73973,,,0
+H2,2011,2011,2011,4,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,15906600,,,,15906600,,5975022,,,0
+H2,2011,2011,2011,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,18844113,,,,18844113,,7547337,,,0
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,416924914,,,,416924914,,178904284,,,0
+H2,2011,2011,2011,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,990,,,,990,,8512,,,0
+H2,2011,2011,2011,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,78235874,,,,78235874,,35217735,,,0
+H2,2011,2011,2011,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,23741010,,,,23741010,,9716005,,,0
+H2,2011,2011,2011,4,0,2,Export,368,Iraq,IRQ,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,23000,,,,23000,,3887,,,0
+H2,2011,2011,2011,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,20124204,,,,20124204,,5292034,,,6
+H2,2011,2011,2011,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,170266,,,,170266,,40803,,,6
+H2,2011,2011,2011,4,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,4005808047,,,,4005808047,,1440059825,,,0
+H2,2011,2011,2011,4,0,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,450000,,,,450000,,314553,,,0
+H2,2011,2011,2011,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,245362192,,,,245362192,,140124000,,,0
+H2,2011,2011,2011,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,3835000,,,,3835000,,110000,,,0
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,156735526,,,,156735526,,88080604,,,0
+H2,2011,2011,2011,4,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,6221319,,,,6221319,,1928517,,,0
+H2,2011,2011,2011,4,0,3,Re-Export,512,Oman,OMN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,65099,,,,65099,,36401,,,0
+H2,2011,2011,2011,4,0,1,Import,548,Vanuatu,VUT,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,231,,,,231,,132,,,0
+H2,2011,2011,2011,4,0,1,Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,36842,,,,36842,,9547,,,6
+H2,2011,2011,2011,4,0,1,Import,585,Palau,PLW,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,24289,,,,24289,,6278,,,6
+H2,2011,2011,2011,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,2767589574,,,,2767589574,,955282199,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,338833,,,,338833,,133053,,,0
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,1609640430,,,,1609640430,,576294441,,,0
+H1,2011,2011,2011,4,0,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,710,,,,710,,1441,,,0
+H1,2011,2011,2011,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,186,,,,186,,601,,,0
+H0,2011,2011,2011,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,330,,,,330,,2089,,,0
